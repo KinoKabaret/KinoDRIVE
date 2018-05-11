@@ -1,0 +1,22 @@
+{
+  "name": "kinodrive",
+  "version": "1.0.0-beta.1",
+  "description": "The storage system for Kino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinoKabaret/KinoDRIVE.git"
+  },
+  "author": "nothingismagick <daniel@kinokabaret.com> (https://kinokabaret.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KinoKabaret/KinoDRIVE/issues"
+  },
+  "homepage": "https://github.com/KinoKabaret/KinoDRIVE#readme",
+  "dependencies": {
+    "dat-node": "^3.5.8"
+  }
+}
